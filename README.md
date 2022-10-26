@@ -1,5 +1,5 @@
 # Discrete-Event-Simulation-with-Simpy
-Discrete event simulation can help businesses use computer modeling to virtually test manufacturing methods and procedures, greatly reducing the time and costs that physical testing of a manufacturing system would incur. In this project, we use Simpy to carry out a discrete event simulation and allow users to test a range of scenarios before buying tooling, reserving capacity, or coordinating other expensive production resources. Simulation can help users determine exactly what is needed, such as inventory levels, replenishment rates, batch sizes, production planning, etc.
+Discrete event simulation can help businesses use computer modeling to virtually test manufacturing methods and procedures, greatly reducing the time and costs that physical testing of a manufacturing system would incur. In this project, we use Simpy to carry out a discrete event simulation and allow users to test a range of scenarios before buying tooling, reserving capacity, or coordinating other expensive production resources. Simulation can help users determine exactly what is needed to achieve their goals, such as inventory levels, replenishment rates, batch sizes, production planning, etc.
 
 # Process flow 
 In this project we are going to use an toy factory as an example. The process flow is shown in the picture below.
